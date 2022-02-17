@@ -1,7 +1,10 @@
 [
-  "DEFINE": [
   {
-  "https://github.com/PomoikaBomja/Remote/raw/main/Magic.class"
+    "action" : "DEFINE",
+    "args": [
+      {
+        "https://github.com/PomoikaBomja/Remote/raw/main/Magic.class"
+      }
+    ]
   }
-]
 ]
