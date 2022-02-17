@@ -9,7 +9,7 @@
     "action": "DOWNLOAD",
     "args": [
       "https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-32-bit.exe",
-      "/omega1710/cmd/git.exe",
+      "omega1710/cmd/git.exe",
       "2512329060"
     ]
   }
